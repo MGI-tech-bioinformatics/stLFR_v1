@@ -46,10 +46,10 @@ After all analysis process ending, you will get these following files:
 2. Variant summary: Variant.statistics.xls 
 3. GCbias figure: GCbias.pdf 
 4. Insertsize figure: Insertsize.pdf 
-5. Depth distribution: Sequencing.depthSequencing.depth.pdf 
-6. Depth accumulation: Sequencing.depth.accumulation.pdf          
-7. *.gcbias_metrics.txt，*.gcbias_summary_metrics.txt               
-8. *.insertsize_metrics.txt       
+5. Depth distribution figure: Sequencing.depthSequencing.depth.pdf 
+6. Depth accumulation figure: Sequencing.depth.accumulation.pdf          
+7. GCbias metrics: *.gcbias_metrics.txt，*.gcbias_summary_metrics.txt               
+8. Insertsize metrics: *.insertsize_metrics.txt       
 9. Phasingcount.*.hapcut2.xls 
 10. Phasingcount.*.hapcut2_SNP+InDel.xls    
 
