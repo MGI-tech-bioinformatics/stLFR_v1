@@ -28,7 +28,7 @@ Furthermore, you need to download the following database to the specific directo
 
 Or you can download the above database and softwares from BGI Cloud Drive:
 
-1. tools Link: https://pan.genomics.cn/ucdisk/s/ZbIveq
+1. tools Link: https://pan.genomics.cn/ucdisk/s/2iU3ya
 2. database Link: https://pan.genomics.cn/ucdisk/s/RZFRFz
 
 Usage
