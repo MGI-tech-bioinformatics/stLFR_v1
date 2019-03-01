@@ -3,11 +3,11 @@ stLFR_version1
 
 Introduction
 -------
-Tools for analyzing stLFR(Single Tube Long Fragment Reads) data
+Tools of stLFR(Single Tube Long Fragment Reads) data analysis
 
-stLFR questions may be directed to bgi-MGITech_Bioinfor@genomics.cn.
+stLFR FAQs is directed to bgi-MGITech_Bioinfor@genomics.cn.
 
-See https://github.com/MGI-tech-bioinformatics/stLFR_v1 to download source code package.
+Download source code package from https://github.com/MGI-tech-bioinformatics/stLFR_v1
 
 
 Download/Install
