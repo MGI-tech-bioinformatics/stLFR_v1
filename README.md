@@ -33,7 +33,7 @@ Or you can download the above database and softwares from BGI Cloud Drive:
 
 Usage
 -------
-1. Make sure 'path' file on a right format, you may refer to 'path' file in example.
+1. Make sure 'path' file on a right format, you can refer to 'path' file in the example.
 
 2. Run the automatical delivery script.
 
