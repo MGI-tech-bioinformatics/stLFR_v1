@@ -31,7 +31,9 @@ Or you also can download the above database and softwares from BGI Cloud Drive:
 
 Usage
 -------
-1. Make sure 'path' file on a right format, you can refer the standard format is un
+1. Make sure 'path' file on a right format, you may refer to 'path' file in example.
+
+2. Run the automatical delivery script.
     sh work.sh
 
 License
