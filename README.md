@@ -12,7 +12,7 @@ Download source code package from https://github.com/MGI-tech-bioinformatics/stL
 
 Download/Install
 ----------------
-Because of the size limitation of GitHub repository, these are some following softwares you need to install to the specified directory (stLFR_v1/tools):
+Due to the size limitation of GitHub repository, followed softwares need to be installed to the specific directory (stLFR_v1/tools):
 
 1. HapCUT2-master; 2. R-3.2.3; 3. bam2depth; 4. cnv; 5. gatk-4.0.3.0;
 
@@ -20,7 +20,7 @@ Because of the size limitation of GitHub repository, these are some following so
 
 11. bwa; 12. fqcheck; 13. gnuplot-5.2.2; 14. picard; 15.samtools-1.3.
 
-Furthermore, you need to download the following database to the specified directory:
+Furthermore, you need to download the following database to the specific directory:
 
 1. hg19.fa (stLFR_v1/db/hg19);
 
