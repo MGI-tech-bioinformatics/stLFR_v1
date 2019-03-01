@@ -31,6 +31,7 @@ Or you also can download the above database and softwares from BGI Cloud Drive:
 
 Usage
 -------
+1. Make sure 'path' file on a right format, you can refer the standard format is un
     sh work.sh
 
 License
