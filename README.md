@@ -9,7 +9,6 @@ stLFR questions may be directed to bgi-MGITech_Bioinfor@genomics.cn.
 
 See https://github.com/MGI-tech-bioinformatics/stLFR_v1 to download source code package.
 
-See stLFR cookbook for detailed usage of these tools.
 
 Download/Install
 ----------------
