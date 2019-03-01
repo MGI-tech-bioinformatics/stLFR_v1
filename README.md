@@ -1,5 +1,6 @@
 stLFR_version1
 ==============
+
 Introduction
 -------
 Tools for analyzing stLFR(Single Tube Long Fragment Reads) data
@@ -34,7 +35,25 @@ Usage
 1. Make sure 'path' file on a right format, you may refer to 'path' file in example.
 
 2. Run the automatical delivery script.
-    sh work.sh
+
+        sh work.sh
+
+Result
+-------
+After all analysis process ending, you will get these following files:
+
+1. Raw data and alignment summary: Alignment.statistics.xls 
+2. Variant summary: Variant.statistics.xls 
+3. GCbias figure: GCbias.pdf 
+4. Insertsize figure: Insertsize.pdf 
+5. Depth distribution: Sequencing.depthSequencing.depth.pdf 
+6. Depth accumulation: Sequencing.depth.accumulation.pdf          
+7. *.gcbias_metrics.txt，*.gcbias_summary_metrics.txt               
+8. *.insertsize_metrics.txt       
+9. Phasingcount.*.hapcut2.xls 
+10. Phasingcount.*.hapcut2_SNP+InDel.xls    
+
+
 
 License
 -------
