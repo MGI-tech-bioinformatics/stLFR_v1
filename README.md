@@ -41,7 +41,7 @@ Usage
 
 Result
 -------
-After all analysis processes ending, you will get these following files:
+After all analysis processes ending, you will get these files below:
 
 1. Raw data and alignment summary: Alignment.statistics.xls 
 2. Variant summary: Variant.statistics.xls 
